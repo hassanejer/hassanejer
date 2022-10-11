@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassanejer
 - 👀 I’m interested in new technology
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Javascript/ReactJs
 - 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me : hassanejermoune@gmail.com
 
